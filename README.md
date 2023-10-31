@@ -42,14 +42,14 @@ exactly the number and type of additional artists that also contributed to the p
 ARTIST + was created so that any artist or contributor who does not fall into one
 of the normal categories can also receive compensation for their work
 
-SINGLE
-REMIX
-EP
-ALBUM
-
-SAMPLE
-STEM
-SAMPLEPACK
+SINGLE  
+REMIX  
+EP  
+ALBUM  
+  
+SAMPLE  
+STEM  
+SAMPLEPACK  
 STEMPACK
 
 The CONTRIBUTOR section of our contracts are set by the artist, so you are in
