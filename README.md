@@ -18,13 +18,13 @@ The OGX Platform is the integration of all the different OGX technologies and Sm
 Putting Music-Metadata (On-chain), Proof-of-Production (On-chain) and giving Artists Full-Auditability over their work is our goal.
 
 
-PRODUCER
-SINGER
-SONGWRITER
-ENGINEER
-MUSICIAN
-BAND
-COMPOSER
+PRODUCER  
+SINGER  
+SONGWRITER  
+ENGINEER  
+MUSICIAN  
+BAND  
+COMPOSER  
 ARTIST +
 
 CONTRIBUTOR
